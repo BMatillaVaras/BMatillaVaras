@@ -33,4 +33,4 @@ const belen = {
 
 <a href="mailto:bmatillavaras@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/vallamanquesa_?logoColor=%007ACC&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/vallamanquesa?style=social)
