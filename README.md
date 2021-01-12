@@ -31,8 +31,11 @@ const belen = {
 ### My Projects
 
 <a href="https://github.com/BMatillaVaras/project-promo-k-module-1-team-2" target="_blank">B.A.I.L.A.</a>
+
 <a href="https://github.com/BMatillaVaras/project-2-promo-k-module-2-team-3" target="_blank">Script-Girls. Awesome Profile Cards</a>
+
 <a href="https://github.com/BMatillaVaras/modulo-2-evaluacion-final-BMatillaVaras" target="_blank">Buscador de series</a>
+
 <a href="https://github.com/BMatillaVaras/project-promo-k-module-3-team-7" target="_blank">Star Coding Labs. Refactorizado con React</a>
 
 
