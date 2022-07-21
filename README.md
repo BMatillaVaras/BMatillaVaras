@@ -9,7 +9,6 @@ Arquitecta reinventada en **desarrolladora front-end**. Me encanta aprender y af
 ``` javascript
 
 const belen = {
-  pronouns: "she" | "her",
   askMeAbout: ["web dev", "tech", "architecture", "robotics"],
   softKills: [teamwork, collaborator, listening skills, commited, resolute, resilient],
   tools: [HTML5, CSS3, Sass, JavaScript, React, Git, GitHub, VSCode],
